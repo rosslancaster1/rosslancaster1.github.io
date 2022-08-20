@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Projects',  url: 'facts'}
+- {name: 'Projects',  url: 'projects'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
@@ -17,7 +17,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/ross-lancaster/'}
-- {icon: 'envelope', link:   'rosslancaster3@gmail.com'}
+- {icon: 'envelope', link:   'mailto:rosslancaster3@gmail.com'}
 
 
 # Customize site text
