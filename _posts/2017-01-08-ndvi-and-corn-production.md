@@ -3,7 +3,7 @@ layout: post
 title: "NDVI and Corn Production"
 author: "Ross Lancaster"
 categories: facts
-tags: [facts, sample]
+tags: [sample]
 image: cuba-2.jpg
 ---
 
