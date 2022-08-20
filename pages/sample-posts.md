@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Work History
 category: sample
-permalink: /sample-posts
+permalink: /workhistory
 ---
