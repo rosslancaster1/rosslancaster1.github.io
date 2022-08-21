@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding Skills"
-author: "Ross Lancaster"
+author: "Ross Lancaster
 categories: resources
 tags: [sample]
 image: arctic-2.jpg
