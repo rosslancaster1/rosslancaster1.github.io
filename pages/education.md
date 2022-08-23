@@ -5,7 +5,7 @@ category: documentation
 permalink: /education
 ---
 
-![RPI](rosslancaster.githubio./assets/img/rpi.jpg)
+![RPI](rosslancaster.githubio./assets/img/RPI.jpg)
 
 # Graduate Education
 
