@@ -1,5 +1,9 @@
 ---
 layout: post
+title: "Home"
+author: "Ross Lancaster"
+categories: sample
+tags: [sample]
 ---
 
 # Welcome
