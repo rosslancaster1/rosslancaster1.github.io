@@ -3,7 +3,6 @@ layout: page
 title: Education
 category: documentation
 permalink: /education
-image: [RPI.jpg]
 ---
 
 ![RPI](./assets/RPI.jpg)
