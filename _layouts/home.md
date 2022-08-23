@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Home"
+title: "Welcome"
 author: "Ross Lancaster"
 categories: sample
 tags: [sample]
