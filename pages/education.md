@@ -5,7 +5,7 @@ category: documentation
 permalink: /education
 ---
 
-![RPI](rosslancaster.githubio./assets/img/RPI.jpg)
+![RPI](rosslancaster.githubio.io/assets/img/RPI.jpg)
 
 ## Graduate Education
 
@@ -21,9 +21,9 @@ In June 2017 I graduated from Lincoln High School as valedictorian of my class. 
 
 ## College Transcript
 
-![Academic Transcript part 1](rosslancaster.githubio./assets/img/Academic Transcipt1024_1.jpg)
-![Academic Transcript part 2](rosslancaster.githubio./assets/img/Academic Transcipt1024_2.jpg)
-![Academic Transcript part 3](rosslancaster.githubio./assets/img/Academic Transcipt1024_3.jpg)
-![Academic Transcript part 4](rosslancaster.githubio./assets/img/Academic Transcipt1024_4.jpg)
-![Academic Transcript part 5](rosslancaster.githubio./assets/img/Academic Transcipt1024_5.jpg)
-![Academic Transcript part 6](rosslancaster.githubio./assets/img/Academic Transcipt1024_6.jpg)
+![Academic Transcript part 1](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_1.jpg)
+![Academic Transcript part 2](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_2.jpg)
+![Academic Transcript part 3](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_3.jpg)
+![Academic Transcript part 4](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_4.jpg)
+![Academic Transcript part 5](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_5.jpg)
+![Academic Transcript part 6](rosslancaster.githubio.io/assets/img/Academic Transcipt1024_6.jpg)
