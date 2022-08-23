@@ -5,7 +5,7 @@ category: documentation
 permalink: /education
 ---
 
-![RPI](./assets/img/rpi.jpg)
+![RPI](./assets/rpi.jpg)
 
 # Graduate Education
 
