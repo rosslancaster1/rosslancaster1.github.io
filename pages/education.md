@@ -3,6 +3,7 @@ layout: page
 title: Education
 category: documentation
 permalink: /education
+image: arctic-2.jpg
 ---
 
 ![RPI](rosslancaster.githubio.io/assets/img/RPI.jpg)
