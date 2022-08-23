@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clincial Information Manager "
+title: "Clinical Information Manager "
 author: "Ross Lancaster"
 categories: sample
 tags: [sample]
