@@ -6,7 +6,7 @@ permalink: /education
 image: [RPI.jpg]
 ---
 
-![RPI](rosslancaster.githubio.io/assets/img/RPI.jpg)
+![RPI](./assets/RPI.jpg)
 
 ## Graduate Education
 
