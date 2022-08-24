@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Welcome"
 author: "Ross Lancaster"
 ---
-# Welcome
 
 Hello and welcome to my website. For a brief introduction my name is Ross Lancaster and I recently completed my graduate program in Business Analytics.
 I created this site in order to showcase my projects and more thoroughly explain my background. Within each tab you can explore a selection of my projects
