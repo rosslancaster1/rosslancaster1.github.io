@@ -4,7 +4,7 @@ title: "Clincial Engineering Intern"
 author: "Ross Lancaster"
 categories: sample
 tags: [sample]
-image: intern.jpg
+image: intern.JPG
 ---
 
 # Markdown Support
