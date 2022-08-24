@@ -1,10 +1,3 @@
----
-layout: post
-title: "Welcome"
-author: "Ross Lancaster"
-categories: sample
-tags: [sample]
----
 
 # Welcome
 
