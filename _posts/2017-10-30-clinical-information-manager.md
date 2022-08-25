@@ -8,7 +8,7 @@ image: cim.jpg
 ---
 
 ## Company: Envision Physician Services
-## January 2020- May 2022
+### January 2020- May 2022
 
 As a Clinical Information Manager (CIM) I partnered with emergency room physicians to deliver effective patient care. My duties included completing all documention for the physicians and keeping track of the treatment plans for all of their patients. In this role I needed to be cognizant of all of the relevant regulations for patient visit documentation and display a mastery of medical terminology. I gained experience using Epic and Meditech electronical medical record software, familiarity with  ICD-10 codes, and a deep understanding of emergency department operations. 
 
