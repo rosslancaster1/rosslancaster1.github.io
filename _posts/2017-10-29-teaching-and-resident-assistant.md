@@ -4,7 +4,7 @@ title: "Teaching and Resident Assistant"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: rpi.PNG
+image: rpis.JPG
 ---
 
 # Markdown Support
