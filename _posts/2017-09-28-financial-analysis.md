@@ -7,4 +7,20 @@ tags: [sample]
 image: financial.JPG
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+I currently have one year's experience with financial analysis including the following topics:
+
+* Financial Statement Analysis
+  * Balance Sheet Analysis
+  * Income Statement Analysis
+  * Cash Flow Statement Analysis
+* Ratio Analysis
+  *  Leverage
+  *  Liquidity
+  *  Profitability
+  *  Equity
+  *  Valuation
+* DuPont Analysis 
+* WACC
+* CAPM
+* Forecasting
+* Valuation
