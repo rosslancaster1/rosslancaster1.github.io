@@ -1,10 +1,52 @@
 ---
 layout: post
-title: "Coding Skills"
+title: "Coding/Statistical Analysis Skills"
 author: "Ross Lancaster"
 categories: resources
 tags: [sample]
 image: coding.JPG
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+# Languages and Libraries
+
+* Python (Jupyter Notebook, Google Colab)
+  * Numpy
+  * Pandas
+  * Scikit-learn
+  * Matplotlib
+  * Seaborn
+  * Keras
+  * BeautifulSoup 
+* R (RStudio)
+  * GGplot2
+  * Dplyr
+  * Caret
+* SQL (Microsoft SQL Server)
+
+# Machine Learning 
+
+* Supervised Learning
+  * Regression (Linear and Nonlinear)
+  * Decision Trees
+    *  Random Forests
+    *  XGBoost
+    *  LightGBM
+  * Neural Networks
+    * Multilayer Perceptron 
+  * K-Nearest Neighbors 
+  * Support Vector Machine
+* Unsupervised Learning
+  * Clustering
+  * KMeans
+* Ensemble Learning
+* Dimensionality Reduction/Principal Component Analysis
+* Feature Selection/Creation
+
+# Statistical Analysis 
+
+* Descriptive Statistics
+  *  Exploratory Data Analysis 
+* Hypothesis Testing
+  *
+
+
