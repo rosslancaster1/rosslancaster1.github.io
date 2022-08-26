@@ -46,7 +46,16 @@ image: coding.JPG
 
 * Descriptive Statistics
   *  Exploratory Data Analysis 
-* Hypothesis Testing
-  *
+* Regression Analysis (Linear and Nonlinear)
+* Correlation/Covariance
+* Z-Test
+* T-Test
+* F-Test
+* ANOVA/ANCOVA
+* Chi-squared test
+* Wilcoxon Signed Rank Test
+* Kruskal-Wallis Test
+* Beginner SAS and SAS Studio skills
+* Familiarity with Minitab
 
 
