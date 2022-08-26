@@ -7,4 +7,4 @@ tags: [sample]
 image: comm.JPG
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+I have ample experience with both written and verbal communication utilizing both the Microsoft and Google suites of products. In addition to numerous written projects for college, as a Clinical Information Manager I would have to prepare around 20 patient notes per shift that were accurate and followed numerous regulations. This was aided by my ability to type around 80 words per minute, corrected for errors. My academic writing has also been featured in the Currents in Teaching and Learning journal.
