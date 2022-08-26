@@ -25,8 +25,9 @@ Throughout my educational career I have taken an extensive number of laborratory
   * Reporter Constructs
 * Enzyme Assays
 * Blue/White Screens
-* Western and Souther Blotting
+* Western and Southern Blotting
 * Vector NTI
+* BLAST
 * Experience Working with C. Elegans
 * Experience Working with the WormBase and NCBI Databases
 
@@ -35,12 +36,22 @@ For examples of my laboratory work, here are samples of my analysis of [blue/whi
 # Chemical Lab Skills
 
 * Chromatography
- * Gas
- * Liquid
-  * Column
-  * Paper
-  * Thin Layer
+  * Gas
+  * Liquid
+    * Column
+    * Paper
+    * Thin Layer
 * Titration
+* Filtration
 * Distillation
+  * Fractional
+  * Vacuum
 * Reflux
-* 
+* Chemical Extraction
+* Crystallization
+* Rotary Evaporation
+* Melting Point Determination
+* Spectrophotometry
+* IR Spectroscopy
+* 1-D and 2-D NMR
+* Mass Spectrometry
