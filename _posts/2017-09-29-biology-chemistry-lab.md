@@ -31,7 +31,7 @@ Throughout my educational career I have taken an extensive number of laborratory
 * Experience Working with C. Elegans
 * Experience Working with the WormBase and NCBI Databases
 
-For examples of my laboratory work, here are samples of my analysis of [blue/white screens](https://drive.google.com/file/d/1G0UF6iaH3NIVyF_tKEEegH2B2zLQrOdy/view?usp=sharing), [reporter constructs](https://docs.google.com/document/d/1KDNrdYtpQN-cNIDgausmOEflCbykEqq-/edit?usp=sharing&ouid=118120350818304505753&rtpof=true&sd=true), and [c. elegans]().
+For examples of my laboratory work, here are samples of my analysis of [blue/white screens](https://drive.google.com/file/d/1G0UF6iaH3NIVyF_tKEEegH2B2zLQrOdy/view?usp=sharing), [reporter constructs](https://docs.google.com/document/d/1KDNrdYtpQN-cNIDgausmOEflCbykEqq-/edit?usp=sharing&ouid=118120350818304505753&rtpof=true&sd=true), and [c. elegans](https://drive.google.com/file/d/1HarAstkacz7hd_iVIfhGnAh8ZQjX40Kx/view?usp=sharing).
 
 # Chemical Lab Skills
 
