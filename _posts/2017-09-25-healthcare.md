@@ -7,4 +7,4 @@ tags: [sample]
 image: health.JPG
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+I have over two years of experience working in an emergency room as well as a summer working intering in the clincial engineering department. Through this time I have developed a strong understanding of the business and behind the scenes side of a hospital. I have played an integral role in the work flow of an emergency room and understand the moving pieces required to keep everything working. I have limited experience in an operating room setting as well. In addition, I gained experience utilizing both Epic and Meditech, have a mastery of medical terminology, and am knowledgeable of various government regulations include HIPAA, EMTALA, MIPS, and ICD-10 codes. 
