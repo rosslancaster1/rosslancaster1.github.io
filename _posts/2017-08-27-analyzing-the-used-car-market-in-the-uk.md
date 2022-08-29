@@ -25,4 +25,4 @@ After the successful creation of the data warehouse, the data was exported to Ex
 * Sales for the top 10 selling manufacturers tended to increase every year from 2011 to 2019 before plummeting in 2020
 * Luxury and sports car brands tended to have the highest resale values while more budget friendly brands had the lowest resale values
 
-The files used to create the data warehouse can be found [here](https://github.com/rosslancaster1/Car-Data-Warehouse)
+The files used to create the data warehouse can be found [here](https://github.com/rosslancaster1/Car-Data-Warehouse).
