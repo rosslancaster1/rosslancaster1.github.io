@@ -21,3 +21,5 @@ During graduate school I was tasked with completing a semester long supply chain
 * An analysis of how many days of production they were losing due to their current manufacturing system
 * An analysis of how work in progress inventory was hurting their bottom line and increasing their storage costs 
 * An analysis showing how utilizing our recommendations should decrease storage costs by over $400,000 per year,and should double the number of fuel cells they are able to produce per shift
+
+The complete analysis and report for this project cannot be shared publically due to privacy concerns. 
