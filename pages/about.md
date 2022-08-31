@@ -29,7 +29,7 @@ Occasionally in my free time I will work towards getting certifications that one
 * National AP Scholar 
 * Harvard Book Award
 * 2017 University of Rhode Island Calc Bowl Second Place
-* Rhode Island Science and Engineering Fair First Grant for my project The Artifical Pancreas
+* Rhode Island Science and Engineering Fair First Grant for my project The Artificial Pancreas
 * Rhode Island Mathematics League Top in School Award
 * National Honor Society
 * Rhode Island Honor Society
