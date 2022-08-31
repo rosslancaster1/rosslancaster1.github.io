@@ -16,7 +16,7 @@ Another fun fact about me is that I am incredibly flexible. While others may str
 
 You will also find that I am a huge fan of the TV show Survivor. From time to time I even make appearances on the Survivor Buffs podcast to discuss the show. The remainder of my television habits mainly revolve around the English Premier League or whatever game show happens to be on at the time. 
 
-Occasionally in my free time I will work towards getting certifications that one might find to be less than applicable to most of life's challenges. Examples include being certified to identify the difference between black bears and grizzly bears by the state of Montana, being certified in landmine and explosive remnants of war safety by the United Nations, and being certified to officiate weddings in 47 states (sorry New York, North Carolina, and Viriginia). However, in order to return to some semblance of seriousness I will end with a list of some of my more relevant accomplishments.
+Occasionally in my free time I will work towards getting certifications that one might find to be less than applicable to most of life's challenges. Examples include being certified to identify the difference between black bears and grizzly bears by the state of Montana, being certified in landmine and explosive remnants of war safety by the United Nations, and being certified to officiate weddings in 47 states (sorry New York, North Carolina, and Virginia). However, in order to return to some semblance of seriousness I will end with a list of some of my more relevant accomplishments.
 
 ## Awards
 
