@@ -36,4 +36,4 @@ Occasionally in my free time I will work towards getting certifications that one
 * Lincoln High School Class of 2017 Valedictorian 
 * Lincoln High School Outstanding Achievement in Physical Science Award
 * Lincoln High School Outstanding Achievement in Social Studies Award
-* Lincoln High School Oustanding Achievement on the LHS Math Team Award
+* Lincoln High School Outstanding Achievement on the LHS Math Team Award
