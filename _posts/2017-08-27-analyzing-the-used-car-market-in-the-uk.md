@@ -18,7 +18,7 @@ After the successful creation of the data warehouse, the data was exported to Ex
 * Hatchbacks, the most common body type, have the second lowest average used car price
 * Specialty vehicles like campers and limousines have the highest average used car prices
 * Used car prices tend to increase in the colder months and decrease in the warmer months
-* Cars with more ecofriendly fuel sources tend to have higher used car prices
+* Cars with more eco-friendly fuel sources tend to have higher used car prices
 * Cars with manual transmission have the lowest average used car prices with semi-automatic cars having prices over ten times higher on average
 * McLaren is the make with the highest average used car price and Daewoo is the make with the lowest average used car price
 * Many of the top and bottom 10 makes for list price are also found in the top and bottom 10 makes for used car price
