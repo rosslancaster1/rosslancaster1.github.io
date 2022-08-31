@@ -14,7 +14,7 @@ For the past few years I have been helping to run the RPI Curling team. I have s
 
 Another fun fact about me is that I am incredibly flexible. While others may struggle to touch their toes at all I can touch mine with my elbows. However, I make sure to only use this power for good. Beyond stretching, other less important talents of mine include having the skills to be a professional Disney vacation planner when necessary and being a top 100 ranked player in the obscure video game Cloudberry Kingdom. 
 
-You will also find that I am a huge fan of the TV show Survivor. From time to time I even make appearances on the Survivor Buffs podcast to discuss the show. The remainder of television habits mainly revolve around the Engligh Premier League or whatever game show happens to be on at the time. 
+You will also find that I am a huge fan of the TV show Survivor. From time to time I even make appearances on the Survivor Buffs podcast to discuss the show. The remainder of my television habits mainly revolve around the English Premier League or whatever game show happens to be on at the time. 
 
 Occasionally in my free time I will work towards getting certifications that one might find to be less than applicable to most of life's challenges. Examples include being certified to identify the difference between black bears and grizzly bears by the state of Montana, being certified in landmine and explosive remnants of war safety by the United Nations, and being certified to officiate weddings in 47 states (sorry New York, North Carolina, and Viriginia). However, in order to return to some semblance of seriousness I will end with a list of some of my more relevant accomplishments.
 
