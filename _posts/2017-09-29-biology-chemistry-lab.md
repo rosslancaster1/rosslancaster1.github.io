@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Biology/Chemistry/Lab Skills"
+title: "Biology/Chemistry Lab Skills"
 author: "Ross Lancaster"
 categories: resources
 tags: [sample]
