@@ -7,7 +7,7 @@ tags: [sample]
 image: biology.JPG
 ---
 
-Throughout my educational career I have taken an extensive number of laborratory courses in areas ranging from biology to chemistry to and physics. Listed below are some of the laboratory skills that I have gained over the years. 
+Throughout my educational career I have taken an extensive number of laboratory courses in areas ranging from biology to chemistry to and physics. Listed below are some of the laboratory skills that I have gained over the years. 
 # Biology Lab Skills
 
 * Sterile Technique
@@ -16,7 +16,7 @@ Throughout my educational career I have taken an extensive number of laborratory
 * Gel Electrophoresis (Polyacrylamide and SDS-PAGE)
 * Polymerase Chain Reaction
 * Restriction Enzyme Mapping
-* Molecular Hydribization
+* Molecular Hybridization
 * Experience Working with Bacteria Cultures
   * Inoculation
   * Plasmid Amplification
