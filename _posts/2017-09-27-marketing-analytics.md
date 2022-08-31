@@ -13,5 +13,6 @@ I have experience working with the following marketing analytics concepts:
 * Positioning
 * Perceptual Mapping
 * Conjoint Analysis 
+* RFM Analysis
 * Price Optimization
 * Bass Model
