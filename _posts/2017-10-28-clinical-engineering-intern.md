@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clincial Engineering Intern"
+title: "Clinical Engineering Intern"
 author: "Ross Lancaster"
 categories: sample
 tags: [sample]
