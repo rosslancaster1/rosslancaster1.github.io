@@ -11,7 +11,7 @@ Whether you are a manufacturer, dealer, or a consumer, knowing which aspects of 
 
 ![Entity Relationship Diagram](/assets/entity.JPG)
 
-After the successful creation of the data warehouse, the data was exported to Excel for analysis. A dashboard was creating utilizing pivot charts and macros for easy analysis of the trends behind used car values. This analysis resulted in several observations including the following:
+After the successful creation of the data warehouse, the data was exported to Excel for analysis. A dashboard was created utilizing pivot charts and macros for easy analysis of the trends behind used car values. This analysis resulted in several observations including the following:
 
 * Used car prices decrease with every mile driven, every additional seat, and every additional door but increase with each year newer the registration year is
 * Less traditional car colors occupy both extremes of average used car prices while more traditional colors have average prices in the middle
@@ -21,7 +21,7 @@ After the successful creation of the data warehouse, the data was exported to Ex
 * Cars with more ecofriendly fuel sources tend to have higher used car prices
 * Cars with manual transmission have the lowest average used car prices with semi-automatic cars having prices over ten times higher on average
 * McLaren is the make with the highest average used car price and Daewoo is the make with the lowest average used car price
-* Many of the top and bottom 10 makes for list price are also found in the top and bottom 10 for used car price
+* Many of the top and bottom 10 makes for list price are also found in the top and bottom 10 makes for used car price
 * Sales for the top 10 selling manufacturers tended to increase every year from 2011 to 2019 before plummeting in 2020
 * Luxury and sports car brands tended to have the highest resale values while more budget friendly brands had the lowest resale values
 
