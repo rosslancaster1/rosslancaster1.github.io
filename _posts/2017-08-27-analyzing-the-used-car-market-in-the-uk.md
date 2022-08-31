@@ -7,7 +7,7 @@ tags: [sample]
 image: cars.jpg
 ---
 
-Whether you are a manufacturer, dealer, or a consumer, knowing which aspects of a used car contribute to a high resale value can be crucial information. Thus, I utilized multiple datasets detailing numerous aspects of the used car market in the UK compiled by researchers at the University of Glasgow in order to better understand the trends behind used car values. After data quality checks and cleaning the data, these datasets were uploaded by Microsoft SQL Server. A data warehouse comprising three fact tables and eight dimension tables was created. The entity-relationship diagram for the data warehouse is provided below. 
+Whether you are a manufacturer, dealer, or a consumer, knowing which aspects of a used car contribute to a high resale value can be crucial information. Thus, I utilized multiple datasets compiled by researchers at the University of Glasgow detailing numerous aspects of the used car market in the UK in order to better understand the trends behind used car values. After data quality checks and cleaning the data, these datasets were uploaded to Microsoft SQL Server. A data warehouse comprising three fact tables and eight dimension tables was created. The entity-relationship diagram for the data warehouse is provided below. 
 
 ![Entity Relationship Diagram](/assets/entity.JPG)
 
