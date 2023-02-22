@@ -12,7 +12,7 @@ image: rpis.JPG
 ### Resident Assistant 
 ### August 2019- July 2020
 
-As a resident assistant I was in charge of the safety and  wellbeing of approximately 50 residents. Through this role I helped to build a community in the dormitory and connected with my residents to ensure that they felt a part of the campus community. Part of being a resident assistant is putting on programs for the residents that are both fun and enriching. Examples of my programs included playing Mario Kart with drunk driving goggles to simulate impaired driving and organizing a trip to the local curling club. 
+As a resident assistant I was in charge of the safety and  wellbeing of approximately 50 residents. Through this role I helped build a community in the dormitory and connected with my residents to ensure that they felt a part of the campus community. Part of being a resident assistant is putting on programs for the residents that are both fun and enriching. Examples of my programs included playing Mario Kart with drunk driving goggles to simulate impaired driving and organizing a trip to the local curling club. 
 
 Being a resident assistant required strong leadership and communication skills that were honed through on the job experience and many days of extensive training sessions. I regularly touched base with all of my residents to ensure that they were enjoying their college experience and would help counsel them or direct them to other resources when necessary. 
 
