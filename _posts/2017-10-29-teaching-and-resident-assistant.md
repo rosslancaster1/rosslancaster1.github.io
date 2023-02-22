@@ -23,4 +23,4 @@ Finally, as a resident assistant I was responsible for keeping the dormitory up 
 ### Teaching Assistant
 ### September 2019- December 2020
 
-During my time at RPI I was a teaching assistant for three courses: Organic Chemistry 1, Organic Chemistry 2, and Human Physiology. In this role I helped to tutor and mentor students in these topics and helped grade exams and coursework. I also ran the online lab and wrote exams for the Human Physiology course. Helping to teach these topics to others furthered my understanding of them and enhanced my communication skills. 
+During my time at RPI I was a teaching assistant for three courses: Organic Chemistry 1, Organic Chemistry 2, and Human Physiology. In this role I helped tutor and mentor students in these topics and helped grade exams and coursework. I also ran the online lab and wrote exams for the Human Physiology course. Helping to teach these topics to others furthered my understanding of them and enhanced my communication skills. 
