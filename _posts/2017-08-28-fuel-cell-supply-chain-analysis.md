@@ -7,7 +7,7 @@ tags: [sample]
 image: fuel.JPG
 ---
 
-During graduate school I was tasked with completing a semester-long supply chain capstone project with a team of five. My team was given a large fuel cell manufacturer who was struggling with part stockout issues as our corporate sponsor. These issues ranged from material fulfillment problems between their manufacturing and warehouse facilities, communication between their facilities, inventory visibility, and storage of parts. Each week we visited their various facilities and consulted with a wide range of personnel, from workers on the line to high ranking executives, in order to troubleshoot the issues. After a semester's worth of work we were able to present the following deliverables to a diverse panel of the company's workers:
+During graduate school I was tasked with completing a semester-long supply chain capstone project with a team of five. My team was given a large fuel cell manufacturer who was struggling with part stockout issues as our corporate sponsor. These issues ranged from material fulfillment problems between their manufacturing and warehouse facilities, communication between their facilities, inventory visibility, and storage of parts. In order to troubleshoot these issues, each week we visited their various facilities and consulted with a wide range of personnel, from workers on the line to high ranking executives. After a semester's worth of work we were able to present the following deliverables to a diverse panel of the company's workers:
 
 * A new, completely reworked, level production schedule for fuel cells to avoid spikes in demand
 * A new schedule for picking parts following the level production schedule to avoid spikes in demand for parts
