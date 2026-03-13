@@ -9,7 +9,7 @@ image: powers building.jpg
 ## Company: RI Department of Administration, Pandemic Recovery Office
 ### March 2023- Present
 
-As the data analyst for the Pandemic Recovery Office (PRO), I oversee the entire data life cycle from discussing how data will be collected for a project to the final visualizations and reporting of said data at a project's conclusion. My main focuses are the State Fiscal Recovery Fund (SFRF) and Emergency Rental Assistance (ERA) programs. SFRF encompasses over 100 projects and over $1.1 billion in federal funding while ERA involves an additional $150 million in federal funds. I am in charge of the data collection and cleaning for both of these programs. 
+As the data analyst for the Pandemic Recovery Office (PRO), I oversee the entire data life cycle. This ranges from discussing how data will be collected for a project to the final visualizations and reporting of said data at a project's conclusion. My main focuses are the State Fiscal Recovery Fund (SFRF) and Emergency Rental Assistance (ERA) programs. SFRF encompasses over 100 projects and over $1.1 billion in federal funding while ERA involves an additional $150 million in federal funds. I am in charge of the data collection and cleaning for both of these programs. 
 
 When I arrived at the Pandemic Recovery Office, seven consultants were working together to complete my expected duties. Despite minimal experience with the main tool required for the job, PowerBI, in a matter of weeks I was able to take over for the entire team of consultants. My ability to quickly learn and adapt saved the state $3 million dollars in consulting fees and allowed me to expand my role and handle any challenge sent my way. 
 
