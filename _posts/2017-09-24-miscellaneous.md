@@ -34,6 +34,7 @@ I am not formally trained in web design but I was able to create this website us
 
 # Miscellaneous Skills 
 
+*PowerBI and Data Visualization
 * Data Warehousing
 * Supply Chain Analysis
   * Manufacturing Scheduling
@@ -43,6 +44,7 @@ I am not formally trained in web design but I was able to create this website us
   * Cost Analysis
 * LaTeX
 * Maple
+* Experience using Epic and Meditech
 * Vector NTI
 * Travel Planning Utilizing Concur
 * Propositional Calculus and First Order Logic
