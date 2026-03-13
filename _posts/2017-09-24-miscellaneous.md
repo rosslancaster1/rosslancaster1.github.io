@@ -34,7 +34,7 @@ I am not formally trained in web design but I was able to create this website us
 
 # Miscellaneous Skills 
 
-*PowerBI and Data Visualization
+* PowerBI and Data Visualization
 * Data Warehousing
 * Supply Chain Analysis
   * Manufacturing Scheduling
