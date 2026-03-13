@@ -4,7 +4,7 @@ title: "Data Analyst III "
 author: "Ross Lancaster"
 categories: sample
 tags: [sample]
-image: cim.jpg
+image: powers building.jpg
 ---
 ## Company: RI Department of Administration, Pandemic Recovery Office
 ### March 2023- Present
